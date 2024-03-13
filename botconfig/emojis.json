@@ -1,0 +1,78 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "<:mzfalse:1028222013279580211>",
+    "SUCCESS" : "<:dtrue5:987706223321284638>",
+
+    "disabled" : "<:mzfalse:1028222013279580211> ",
+    "enabled" : "<:true2:942850730715381841>",
+
+    "progress_bar": {
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "⬜",
+      "filledframe": "🟧"
+    },
+
+    "playing": "<:mzmzmusic:1030079072073691209>",
+    "pruning": "<:mzchat:1030122629811671201>",
+    "equalizer": "🎚",
+    "cleared": "<:mzfalse:1028222013279580211>",
+    "leave_on_empty": "🗣️",
+    "time": "<:mzplayingnow:1030079140596027412>",
+    "premium": "💰",
+    "song_by": "<:mzowner:1029462194330546226>",
+    "setup": "<:mzgearbox:1030078444006035456>",
+    "dj": "<:mzmzmusic:1030079072073691209>",
+    "bot": "<:mzDiscord:991040134101229640>",
+    "search": "<:mzsearchheart:1030078371125809223>",
+    "resume": "▶",
+    "pause": "⏸",
+    "lyrics": "📃",
+    "disk": "<:mzplayingnow:1030079140596027412>",
+    "ping": "<:compass1:997240987036422215>",
+
+    "rewind": "⏪",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "<:mzstopmusic:1030079081338908723>",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "<:mzmzmusic:1030079072073691209>",
+    "toggle_mute": "🔇",
+    "repeat_mode": "<:mzreload:1029469388446912554>",
+    "autoplay_mode": "♾",
+    "shuffle": "🔀",
+    "show_queue": "<:mzmusicplaylist:1030079129741168723>",
+    "show_current_track": "🩸"
+  },
+  "react": {
+
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE JUST THE ID IN REACT, EXAMPLE: ⏪ --> 818558865268408341",
+
+    "ERROR" : "<:mzfalse:1028222013279580211>",
+    "SUCCESS" : "987706223321284638",
+
+
+    "rewind": "⏪",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "<:mzstopmusic:1030079081338908723>",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "943183227156299826>",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "🔀",
+    "show_queue": "960471754696966175>",
+    "show_current_track": "🩸"
+  }
+
+}

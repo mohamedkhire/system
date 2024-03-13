@@ -1,0 +1,48 @@
+{
+   "token": "MTAxMzIwNDU0MjM4NjYwMjAxNA.GEszBw.PhOe9qtbLA_lPeRKl-t_b_dF6O1oEiRQKsb7pY",
+   "prefix": "..",
+  "welcomechannel": "990783670916907048",
+   "ownerIDS": ["740161631207555132"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "g5SOlSadRiK",
+   "status": {
+      "text": "Mz Community",
+      "text2": "Mohamed Khire",
+      "type": "PLAYING"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.alexanderof.xyz",
+            "port": 2333,
+            "secure": false,
+            "password": "lavalink"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
